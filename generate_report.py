@@ -2,7 +2,7 @@ import pandas as pd
 import csv
 
 # Read raw data
-df = pd.read_csv('/home/user/Reports/Master Monthly Marketing Tracker 2025 (Charles Luna Sheet).xlsx - Weekly (12_21-12_31).csv')
+df = pd.read_csv('/home/user/Reports/Master Monthly Marketing Tracker 2025 (Charles Luna Sheet).xlsx - Sheet18.csv')
 
 # Clean revenue column
 df['Case Revenue ($)'] = df['Case Revenue ($)'].replace(r'[\$,]', '', regex=True)
@@ -343,7 +343,7 @@ row = ['', '', '', '', source_totals['Channel'], source_totals['Total Leads'], s
 output_rows.append(row)
 
 # Write to CSV
-output_file = '/home/user/Reports/Weekly (12_21-12_31) - Organized.csv'
+output_file = '/home/user/Reports/Weekly (01_01-01_07) - Organized.csv'
 with open(output_file, 'w', newline='') as f:
     writer = csv.writer(f)
     writer.writerows(output_rows)
