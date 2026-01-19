@@ -2,7 +2,7 @@ import pandas as pd
 import csv
 
 # Read raw data
-df = pd.read_csv('/home/user/Reports/Master Monthly Marketing Tracker 2025 (Charles Luna Sheet).xlsx - Weekly (1_8-1_14).csv')
+df = pd.read_csv('/home/user/Reports/Master Monthly Marketing Tracker 2025 (Charles Luna Sheet).xlsx - Weekly (1_8-1_14) Correct.csv')
 
 # Clean revenue column
 df['Case Revenue ($)'] = df['Case Revenue ($)'].replace(r'[\$,]', '', regex=True)
