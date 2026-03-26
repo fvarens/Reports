@@ -1,0 +1,2991 @@
+[
+  {
+    "label": "12/20-12/26",
+    "total_leads": 73,
+    "total_hired": 7,
+    "total_hired_excl": 4,
+    "total_sqls": 23,
+    "total_mqls": 31,
+    "total_scheduled": 32,
+    "total_showups": 27,
+    "total_no_shows": 5,
+    "total_mkt_contacts": 1,
+    "avg_daily": 10.4,
+    "consult_rate": 44.0,
+    "conversion_rate": 9.59,
+    "mql_rate": 42.47,
+    "sql_rate": 31.51,
+    "total_revenue": 39950.0,
+    "agents": [
+      {
+        "name": "Claud",
+        "leads": 17,
+        "mqls": 5,
+        "sqls": 4,
+        "scheduled": 5,
+        "showups": 4,
+        "no_shows": 1,
+        "hired_all": 1,
+        "revenue": 10000.0
+      },
+      {
+        "name": "Santiago",
+        "leads": 16,
+        "mqls": 10,
+        "sqls": 8,
+        "scheduled": 9,
+        "showups": 9,
+        "no_shows": 0,
+        "hired_all": 3,
+        "revenue": 9300.0
+      },
+      {
+        "name": "Liann",
+        "leads": 13,
+        "mqls": 4,
+        "sqls": 2,
+        "scheduled": 4,
+        "showups": 2,
+        "no_shows": 2,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Peter",
+        "leads": 8,
+        "mqls": 4,
+        "sqls": 4,
+        "scheduled": 4,
+        "showups": 4,
+        "no_shows": 0,
+        "hired_all": 2,
+        "revenue": 10650.0
+      },
+      {
+        "name": "Genelyn",
+        "leads": 6,
+        "mqls": 4,
+        "sqls": 2,
+        "scheduled": 4,
+        "showups": 3,
+        "no_shows": 1,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Gizelle",
+        "leads": 6,
+        "mqls": 0,
+        "sqls": 0,
+        "scheduled": 2,
+        "showups": 1,
+        "no_shows": 1,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Heury",
+        "leads": 5,
+        "mqls": 2,
+        "sqls": 1,
+        "scheduled": 2,
+        "showups": 2,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 30,
+        "mqls": 22,
+        "scheduled": 23,
+        "new_matters": 4,
+        "revenue": 38750.0
+      },
+      "Civil": {
+        "leads": 15,
+        "mqls": 2,
+        "scheduled": 2,
+        "new_matters": 0,
+        "revenue": 1200.0
+      },
+      "Criminal": {
+        "leads": 17,
+        "mqls": 4,
+        "scheduled": 3,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Real Estate": {
+        "leads": 6,
+        "mqls": 3,
+        "scheduled": 3,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Probate": {
+        "leads": 0,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 5,
+        "mqls": 0,
+        "scheduled": 1,
+        "new_matters": 0,
+        "revenue": 0.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google",
+        "leads": 42,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 10,
+        "hired": 3,
+        "revenue": 18100.0
+      },
+      {
+        "name": "Google LSA",
+        "leads": 5,
+        "hired": 1,
+        "revenue": 10000.0
+      },
+      {
+        "name": "Referral-Friend",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Avvo",
+        "leads": 2,
+        "hired": 1,
+        "revenue": 1200.0
+      },
+      {
+        "name": "Website",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "ARAG",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Facebook",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Instagram",
+        "leads": 1,
+        "hired": 1,
+        "revenue": 650.0
+      },
+      {
+        "name": "Referral-Business Associate",
+        "leads": 1,
+        "hired": 1,
+        "revenue": 10000.0
+      }
+    ]
+  },
+  {
+    "label": "12/21-12/31",
+    "total_leads": 114,
+    "total_hired": 7,
+    "total_hired_excl": 4,
+    "total_sqls": 27,
+    "total_mqls": 44,
+    "total_scheduled": 44,
+    "total_showups": 37,
+    "total_no_shows": 7,
+    "total_mkt_contacts": 2,
+    "avg_daily": 16.3,
+    "consult_rate": 39.0,
+    "conversion_rate": 6.14,
+    "mql_rate": 38.6,
+    "sql_rate": 23.68,
+    "total_revenue": 39950.0,
+    "agents": [
+      {
+        "name": "Claud",
+        "leads": 29,
+        "mqls": 10,
+        "sqls": 8,
+        "scheduled": 10,
+        "showups": 9,
+        "no_shows": 1,
+        "hired_all": 1,
+        "revenue": 10000.0
+      },
+      {
+        "name": "Santiago",
+        "leads": 24,
+        "mqls": 13,
+        "sqls": 8,
+        "scheduled": 12,
+        "showups": 11,
+        "no_shows": 1,
+        "hired_all": 3,
+        "revenue": 9300.0
+      },
+      {
+        "name": "Liann",
+        "leads": 19,
+        "mqls": 6,
+        "sqls": 2,
+        "scheduled": 5,
+        "showups": 3,
+        "no_shows": 2,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Heury",
+        "leads": 15,
+        "mqls": 4,
+        "sqls": 1,
+        "scheduled": 4,
+        "showups": 3,
+        "no_shows": 1,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Peter",
+        "leads": 10,
+        "mqls": 4,
+        "sqls": 4,
+        "scheduled": 4,
+        "showups": 4,
+        "no_shows": 0,
+        "hired_all": 2,
+        "revenue": 10650.0
+      },
+      {
+        "name": "Gizelle",
+        "leads": 9,
+        "mqls": 1,
+        "sqls": 0,
+        "scheduled": 3,
+        "showups": 2,
+        "no_shows": 1,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Genelyn",
+        "leads": 6,
+        "mqls": 4,
+        "sqls": 2,
+        "scheduled": 4,
+        "showups": 3,
+        "no_shows": 1,
+        "hired_all": 0,
+        "revenue": 0.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 46,
+        "mqls": 30,
+        "scheduled": 30,
+        "new_matters": 4,
+        "revenue": 38750.0
+      },
+      "Civil": {
+        "leads": 21,
+        "mqls": 5,
+        "scheduled": 5,
+        "new_matters": 0,
+        "revenue": 1200.0
+      },
+      "Criminal": {
+        "leads": 21,
+        "mqls": 5,
+        "scheduled": 4,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Real Estate": {
+        "leads": 7,
+        "mqls": 4,
+        "scheduled": 4,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Probate": {
+        "leads": 1,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 18,
+        "mqls": 0,
+        "scheduled": 1,
+        "new_matters": 0,
+        "revenue": 0.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google",
+        "leads": 56,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 18,
+        "hired": 3,
+        "revenue": 18100.0
+      },
+      {
+        "name": "Google LSA",
+        "leads": 18,
+        "hired": 1,
+        "revenue": 10000.0
+      },
+      {
+        "name": "Avvo",
+        "leads": 6,
+        "hired": 1,
+        "revenue": 1200.0
+      },
+      {
+        "name": "Referral-Friend",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 3,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Website",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "ARAG",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Facebook",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Instagram",
+        "leads": 1,
+        "hired": 1,
+        "revenue": 650.0
+      },
+      {
+        "name": "Referral-Attorney",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Business Associate",
+        "leads": 1,
+        "hired": 1,
+        "revenue": 10000.0
+      },
+      {
+        "name": "TikTok",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      }
+    ]
+  },
+  {
+    "label": "01/01-01/07",
+    "total_leads": 103,
+    "total_hired": 8,
+    "total_hired_excl": 3,
+    "total_sqls": 20,
+    "total_mqls": 26,
+    "total_scheduled": 28,
+    "total_showups": 27,
+    "total_no_shows": 1,
+    "total_mkt_contacts": 2,
+    "avg_daily": 14.7,
+    "consult_rate": 27.0,
+    "conversion_rate": 7.77,
+    "mql_rate": 25.24,
+    "sql_rate": 19.42,
+    "total_revenue": 30400.0,
+    "agents": [
+      {
+        "name": "Claud",
+        "leads": 42,
+        "mqls": 13,
+        "sqls": 10,
+        "scheduled": 13,
+        "showups": 13,
+        "no_shows": 0,
+        "hired_all": 4,
+        "revenue": 18200.0
+      },
+      {
+        "name": "Liann",
+        "leads": 23,
+        "mqls": 4,
+        "sqls": 2,
+        "scheduled": 6,
+        "showups": 6,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Santiago",
+        "leads": 22,
+        "mqls": 3,
+        "sqls": 3,
+        "scheduled": 3,
+        "showups": 3,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 10300.0
+      },
+      {
+        "name": "Heury",
+        "leads": 7,
+        "mqls": 2,
+        "sqls": 1,
+        "scheduled": 2,
+        "showups": 1,
+        "no_shows": 1,
+        "hired_all": 1,
+        "revenue": 650.0
+      },
+      {
+        "name": "Peter",
+        "leads": 4,
+        "mqls": 2,
+        "sqls": 2,
+        "scheduled": 2,
+        "showups": 2,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 650.0
+      },
+      {
+        "name": "Loulou",
+        "leads": 2,
+        "mqls": 1,
+        "sqls": 1,
+        "scheduled": 1,
+        "showups": 1,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 600.0
+      },
+      {
+        "name": "Meylin",
+        "leads": 2,
+        "mqls": 1,
+        "sqls": 1,
+        "scheduled": 1,
+        "showups": 1,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 28,
+        "mqls": 12,
+        "scheduled": 13,
+        "new_matters": 1,
+        "revenue": 12150.0
+      },
+      "Civil": {
+        "leads": 26,
+        "mqls": 4,
+        "scheduled": 4,
+        "new_matters": 0,
+        "revenue": 600.0
+      },
+      "Criminal": {
+        "leads": 22,
+        "mqls": 5,
+        "scheduled": 5,
+        "new_matters": 2,
+        "revenue": 17000.0
+      },
+      "Real Estate": {
+        "leads": 6,
+        "mqls": 4,
+        "scheduled": 5,
+        "new_matters": 0,
+        "revenue": 650.0
+      },
+      "Probate": {
+        "leads": 0,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 21,
+        "mqls": 1,
+        "scheduled": 1,
+        "new_matters": 0,
+        "revenue": 0.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google",
+        "leads": 45,
+        "hired": 2,
+        "revenue": 17000.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 16,
+        "hired": 4,
+        "revenue": 12150.0
+      },
+      {
+        "name": "Google LSA",
+        "leads": 13,
+        "hired": 1,
+        "revenue": 650.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 12,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Attorney",
+        "leads": 5,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Website",
+        "leads": 3,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Leah",
+        "leads": 2,
+        "hired": 1,
+        "revenue": 600.0
+      },
+      {
+        "name": "Avvo",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Facebook",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Mark Shecter",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Business Associate",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Client",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "TikTok",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "YouTube",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      }
+    ]
+  },
+  {
+    "label": "01/08-01/14",
+    "total_leads": 100,
+    "total_hired": 5,
+    "total_hired_excl": 3,
+    "total_sqls": 11,
+    "total_mqls": 13,
+    "total_scheduled": 17,
+    "total_showups": 10,
+    "total_no_shows": 0,
+    "total_mkt_contacts": 0,
+    "avg_daily": 14.3,
+    "consult_rate": 17.0,
+    "conversion_rate": 5.0,
+    "mql_rate": 13.0,
+    "sql_rate": 11.0,
+    "total_revenue": 12530.0,
+    "agents": [
+      {
+        "name": "Claud",
+        "leads": 46,
+        "mqls": 6,
+        "sqls": 6,
+        "scheduled": 9,
+        "showups": 5,
+        "no_shows": 0,
+        "hired_all": 4,
+        "revenue": 12530.0
+      },
+      {
+        "name": "Liann",
+        "leads": 17,
+        "mqls": 5,
+        "sqls": 4,
+        "scheduled": 5,
+        "showups": 4,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 0.0
+      },
+      {
+        "name": "Santiago",
+        "leads": 16,
+        "mqls": 1,
+        "sqls": 0,
+        "scheduled": 1,
+        "showups": 0,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Heury",
+        "leads": 8,
+        "mqls": 0,
+        "sqls": 0,
+        "scheduled": 0,
+        "showups": 0,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Peter",
+        "leads": 7,
+        "mqls": 0,
+        "sqls": 0,
+        "scheduled": 0,
+        "showups": 0,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Gizelle",
+        "leads": 3,
+        "mqls": 0,
+        "sqls": 0,
+        "scheduled": 1,
+        "showups": 0,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Lu",
+        "leads": 2,
+        "mqls": 1,
+        "sqls": 1,
+        "scheduled": 1,
+        "showups": 1,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 30,
+        "mqls": 8,
+        "scheduled": 11,
+        "new_matters": 3,
+        "revenue": 12530.0
+      },
+      "Civil": {
+        "leads": 27,
+        "mqls": 1,
+        "scheduled": 1,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Criminal": {
+        "leads": 21,
+        "mqls": 3,
+        "scheduled": 4,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Real Estate": {
+        "leads": 5,
+        "mqls": 1,
+        "scheduled": 1,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Probate": {
+        "leads": 0,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 17,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google",
+        "leads": 45,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google LSA",
+        "leads": 15,
+        "hired": 1,
+        "revenue": 0.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 11,
+        "hired": 4,
+        "revenue": 12530.0
+      },
+      {
+        "name": "Website",
+        "leads": 6,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Attorney",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Friend",
+        "leads": 3,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Avvo",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "TikTok",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Facebook",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Facebook (Posts)",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Instagram",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Mark Shecter",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      }
+    ]
+  },
+  {
+    "label": "01/15-01/21",
+    "total_leads": 104,
+    "total_hired": 6,
+    "total_hired_excl": 6,
+    "total_sqls": 19,
+    "total_mqls": 28,
+    "total_scheduled": 34,
+    "total_showups": 20,
+    "total_no_shows": 6,
+    "total_mkt_contacts": 4,
+    "avg_daily": 14.9,
+    "consult_rate": 33.0,
+    "conversion_rate": 5.77,
+    "mql_rate": 26.92,
+    "sql_rate": 18.27,
+    "total_revenue": 39394.0,
+    "agents": [
+      {
+        "name": "Claud",
+        "leads": 34,
+        "mqls": 8,
+        "sqls": 5,
+        "scheduled": 8,
+        "showups": 3,
+        "no_shows": 1,
+        "hired_all": 1,
+        "revenue": 7500.0
+      },
+      {
+        "name": "Santiago",
+        "leads": 33,
+        "mqls": 10,
+        "sqls": 7,
+        "scheduled": 11,
+        "showups": 7,
+        "no_shows": 3,
+        "hired_all": 2,
+        "revenue": 10000.0
+      },
+      {
+        "name": "Liann",
+        "leads": 16,
+        "mqls": 6,
+        "sqls": 4,
+        "scheduled": 8,
+        "showups": 5,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 670.0
+      },
+      {
+        "name": "Heury",
+        "leads": 7,
+        "mqls": 0,
+        "sqls": 0,
+        "scheduled": 0,
+        "showups": 0,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Peter",
+        "leads": 7,
+        "mqls": 1,
+        "sqls": 1,
+        "scheduled": 3,
+        "showups": 2,
+        "no_shows": 1,
+        "hired_all": 1,
+        "revenue": 7725.0
+      },
+      {
+        "name": "Gizelle",
+        "leads": 4,
+        "mqls": 1,
+        "sqls": 0,
+        "scheduled": 1,
+        "showups": 0,
+        "no_shows": 1,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Lu",
+        "leads": 2,
+        "mqls": 2,
+        "sqls": 2,
+        "scheduled": 2,
+        "showups": 2,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 13500.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 33,
+        "mqls": 16,
+        "scheduled": 19,
+        "new_matters": 4,
+        "revenue": 21894.0
+      },
+      "Civil": {
+        "leads": 25,
+        "mqls": 5,
+        "scheduled": 6,
+        "new_matters": 1,
+        "revenue": 10000.0
+      },
+      "Criminal": {
+        "leads": 13,
+        "mqls": 3,
+        "scheduled": 3,
+        "new_matters": 1,
+        "revenue": 7500.0
+      },
+      "Real Estate": {
+        "leads": 11,
+        "mqls": 3,
+        "scheduled": 5,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Probate": {
+        "leads": 1,
+        "mqls": 1,
+        "scheduled": 1,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 21,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google",
+        "leads": 51,
+        "hired": 1,
+        "revenue": 10000.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 12,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google LSA",
+        "leads": 11,
+        "hired": 1,
+        "revenue": 7725.0
+      },
+      {
+        "name": "Website",
+        "leads": 9,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 8,
+        "hired": 2,
+        "revenue": 13500.0
+      },
+      {
+        "name": "Referral-Attorney",
+        "leads": 3,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Avvo",
+        "leads": 2,
+        "hired": 1,
+        "revenue": 7500.0
+      },
+      {
+        "name": "Referral-Friend",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Associated with Contact Lead",
+        "leads": 1,
+        "hired": 1,
+        "revenue": 670.0
+      },
+      {
+        "name": "Facebook",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Instagram",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Mark Schecter",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Mark Shecter",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Client",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      }
+    ]
+  },
+  {
+    "label": "01/22-01/27",
+    "total_leads": 111,
+    "total_hired": 7,
+    "total_hired_excl": 7,
+    "total_sqls": 31,
+    "total_mqls": 39,
+    "total_scheduled": 40,
+    "total_showups": 36,
+    "total_no_shows": 0,
+    "total_mkt_contacts": 4,
+    "avg_daily": 15.9,
+    "consult_rate": 36.0,
+    "conversion_rate": 6.31,
+    "mql_rate": 35.14,
+    "sql_rate": 27.93,
+    "total_revenue": 15089.0,
+    "agents": [
+      {
+        "name": "Santiago",
+        "leads": 44,
+        "mqls": 16,
+        "sqls": 12,
+        "scheduled": 16,
+        "showups": 12,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 1035.0
+      },
+      {
+        "name": "Liann",
+        "leads": 28,
+        "mqls": 10,
+        "sqls": 8,
+        "scheduled": 11,
+        "showups": 11,
+        "no_shows": 0,
+        "hired_all": 2,
+        "revenue": 1700.0
+      },
+      {
+        "name": "Peter",
+        "leads": 13,
+        "mqls": 1,
+        "sqls": 1,
+        "scheduled": 2,
+        "showups": 2,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Heury",
+        "leads": 8,
+        "mqls": 1,
+        "sqls": 1,
+        "scheduled": 1,
+        "showups": 1,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Meylin",
+        "leads": 6,
+        "mqls": 2,
+        "sqls": 2,
+        "scheduled": 1,
+        "showups": 1,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Lu",
+        "leads": 5,
+        "mqls": 5,
+        "sqls": 3,
+        "scheduled": 5,
+        "showups": 5,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 670.0
+      },
+      {
+        "name": "Gizelle",
+        "leads": 3,
+        "mqls": 1,
+        "sqls": 1,
+        "scheduled": 1,
+        "showups": 1,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 1035.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 35,
+        "mqls": 15,
+        "scheduled": 15,
+        "new_matters": 2,
+        "revenue": 10670.0
+      },
+      "Civil": {
+        "leads": 27,
+        "mqls": 6,
+        "scheduled": 7,
+        "new_matters": 3,
+        "revenue": 2740.0
+      },
+      "Criminal": {
+        "leads": 22,
+        "mqls": 12,
+        "scheduled": 12,
+        "new_matters": 1,
+        "revenue": 1030.0
+      },
+      "Real Estate": {
+        "leads": 10,
+        "mqls": 4,
+        "scheduled": 4,
+        "new_matters": 1,
+        "revenue": 650.0
+      },
+      "Probate": {
+        "leads": 0,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 15,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google - Fort Lauderdale",
+        "leads": 36,
+        "hired": 1,
+        "revenue": 10000.0
+      },
+      {
+        "name": "Google",
+        "leads": 30,
+        "hired": 4,
+        "revenue": 3024.0
+      },
+      {
+        "name": "Google LSA",
+        "leads": 9,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Palm Beach",
+        "leads": 6,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA- Fort Lauderdale",
+        "leads": 6,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 6,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Attorney",
+        "leads": 5,
+        "hired": 2,
+        "revenue": 2065.0
+      },
+      {
+        "name": "Website",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Miami",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Friend",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Boca",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Business Associate",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Todd I. Stone, P.A.",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      }
+    ]
+  },
+  {
+    "label": "02/02-02/06",
+    "total_leads": 107,
+    "total_hired": 12,
+    "total_hired_excl": 12,
+    "total_sqls": 36,
+    "total_mqls": 49,
+    "total_scheduled": 48,
+    "total_showups": 47,
+    "total_no_shows": 1,
+    "total_mkt_contacts": 10,
+    "avg_daily": 15.3,
+    "consult_rate": 45.0,
+    "conversion_rate": 11.21,
+    "mql_rate": 45.79,
+    "sql_rate": 33.64,
+    "total_revenue": 26612.0,
+    "agents": [
+      {
+        "name": "Santiago",
+        "leads": 50,
+        "mqls": 21,
+        "sqls": 12,
+        "scheduled": 21,
+        "showups": 20,
+        "no_shows": 1,
+        "hired_all": 3,
+        "revenue": 6300.0
+      },
+      {
+        "name": "Peter",
+        "leads": 23,
+        "mqls": 12,
+        "sqls": 10,
+        "scheduled": 12,
+        "showups": 12,
+        "no_shows": 0,
+        "hired_all": 3,
+        "revenue": 1989.0
+      },
+      {
+        "name": "Heury",
+        "leads": 11,
+        "mqls": 2,
+        "sqls": 1,
+        "scheduled": 2,
+        "showups": 2,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 5150.0
+      },
+      {
+        "name": "Meylin",
+        "leads": 10,
+        "mqls": 5,
+        "sqls": 4,
+        "scheduled": 4,
+        "showups": 4,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Lu",
+        "leads": 8,
+        "mqls": 7,
+        "sqls": 7,
+        "scheduled": 7,
+        "showups": 7,
+        "no_shows": 0,
+        "hired_all": 4,
+        "revenue": 12112.0
+      },
+      {
+        "name": "Gizelle",
+        "leads": 3,
+        "mqls": 0,
+        "sqls": 0,
+        "scheduled": 0,
+        "showups": 0,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Carly",
+        "leads": 1,
+        "mqls": 1,
+        "sqls": 1,
+        "scheduled": 1,
+        "showups": 1,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 34,
+        "mqls": 25,
+        "scheduled": 24,
+        "new_matters": 3,
+        "revenue": 11592.0
+      },
+      "Civil": {
+        "leads": 28,
+        "mqls": 8,
+        "scheduled": 8,
+        "new_matters": 2,
+        "revenue": 1339.0
+      },
+      "Criminal": {
+        "leads": 18,
+        "mqls": 12,
+        "scheduled": 12,
+        "new_matters": 5,
+        "revenue": 8030.0
+      },
+      "Real Estate": {
+        "leads": 5,
+        "mqls": 3,
+        "scheduled": 3,
+        "new_matters": 2,
+        "revenue": 5650.0
+      },
+      "Probate": {
+        "leads": 0,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 21,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google- Miami",
+        "leads": 19,
+        "hired": 2,
+        "revenue": 5820.0
+      },
+      {
+        "name": "Google - Fort Lauderdale",
+        "leads": 15,
+        "hired": 1,
+        "revenue": 650.0
+      },
+      {
+        "name": "LSA- Fort Lauderdale",
+        "leads": 14,
+        "hired": 1,
+        "revenue": 650.0
+      },
+      {
+        "name": "LSA - Miami",
+        "leads": 9,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 7,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Palm Beach",
+        "leads": 7,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Boca Raton",
+        "leads": 6,
+        "hired": 2,
+        "revenue": 5670.0
+      },
+      {
+        "name": "LSA - Palm Beach",
+        "leads": 6,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Website",
+        "leads": 5,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Friend",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Avvo",
+        "leads": 3,
+        "hired": 1,
+        "revenue": 670.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 3,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Associated with Contact Lead",
+        "leads": 2,
+        "hired": 2,
+        "revenue": 6442.0
+      },
+      {
+        "name": "Leah",
+        "leads": 2,
+        "hired": 1,
+        "revenue": 5000.0
+      },
+      {
+        "name": "Advertisement",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Facebook",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google Empirical 360",
+        "leads": 1,
+        "hired": 1,
+        "revenue": 1061.0
+      },
+      {
+        "name": "LSA - Boca",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Client",
+        "leads": 1,
+        "hired": 1,
+        "revenue": 650.0
+      }
+    ]
+  },
+  {
+    "label": "02/07-02/13",
+    "total_leads": 146,
+    "total_hired": 8,
+    "total_hired_excl": 5,
+    "total_sqls": 34,
+    "total_mqls": 52,
+    "total_scheduled": 49,
+    "total_showups": 46,
+    "total_no_shows": 3,
+    "total_mkt_contacts": 9,
+    "avg_daily": 20.9,
+    "consult_rate": 34.0,
+    "conversion_rate": 5.48,
+    "mql_rate": 35.62,
+    "sql_rate": 23.29,
+    "total_revenue": 40450.0,
+    "agents": [
+      {
+        "name": "Fabio",
+        "leads": 5,
+        "mqls": 1,
+        "sqls": 1,
+        "scheduled": 0,
+        "showups": 0,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Gizelle",
+        "leads": 3,
+        "mqls": 3,
+        "sqls": 1,
+        "scheduled": 3,
+        "showups": 2,
+        "no_shows": 1,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Heury",
+        "leads": 20,
+        "mqls": 4,
+        "sqls": 2,
+        "scheduled": 3,
+        "showups": 3,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 7725.0
+      },
+      {
+        "name": "Lu",
+        "leads": 20,
+        "mqls": 9,
+        "sqls": 8,
+        "scheduled": 9,
+        "showups": 9,
+        "no_shows": 0,
+        "hired_all": 2,
+        "revenue": 23175.0
+      },
+      {
+        "name": "Peter",
+        "leads": 31,
+        "mqls": 10,
+        "sqls": 10,
+        "scheduled": 10,
+        "showups": 10,
+        "no_shows": 0,
+        "hired_all": 2,
+        "revenue": 650.0
+      },
+      {
+        "name": "Santiago",
+        "leads": 67,
+        "mqls": 25,
+        "sqls": 12,
+        "scheduled": 24,
+        "showups": 22,
+        "no_shows": 2,
+        "hired_all": 3,
+        "revenue": 8900.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 67,
+        "mqls": 30,
+        "scheduled": 28,
+        "new_matters": 5,
+        "revenue": 32075.0
+      },
+      "Civil": {
+        "leads": 24,
+        "mqls": 10,
+        "scheduled": 9,
+        "new_matters": 1,
+        "revenue": 650.0
+      },
+      "Criminal": {
+        "leads": 18,
+        "mqls": 7,
+        "scheduled": 7,
+        "new_matters": 2,
+        "revenue": 7725.0
+      },
+      "Real Estate": {
+        "leads": 7,
+        "mqls": 4,
+        "scheduled": 4,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Probate": {
+        "leads": 1,
+        "mqls": 1,
+        "scheduled": 1,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 29,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google - Fort Lauderdale",
+        "leads": 32,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Website",
+        "leads": 15,
+        "hired": 1,
+        "revenue": 650.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 14,
+        "hired": 2,
+        "revenue": 16200.0
+      },
+      {
+        "name": "LSA - Miami",
+        "leads": 14,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google- Miami",
+        "leads": 13,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA- Fort Lauderdale",
+        "leads": 13,
+        "hired": 1,
+        "revenue": 7500.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 8,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Palm Beach",
+        "leads": 8,
+        "hired": 1,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Boca Raton",
+        "leads": 8,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Friend",
+        "leads": 6,
+        "hired": 1,
+        "revenue": 7725.0
+      },
+      {
+        "name": "Google - Palm Beach",
+        "leads": 5,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Avvo",
+        "leads": 4,
+        "hired": 1,
+        "revenue": 7725.0
+      },
+      {
+        "name": "Referral-Attorney",
+        "leads": 2,
+        "hired": 1,
+        "revenue": 650.0
+      },
+      {
+        "name": "LSA - Boca",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Mark Shecter",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "YouTube",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      }
+    ]
+  },
+  {
+    "label": "02/14-02/20",
+    "total_leads": 114,
+    "total_hired": 4,
+    "total_hired_excl": 2,
+    "total_sqls": 35,
+    "total_mqls": 38,
+    "total_scheduled": 38,
+    "total_showups": 37,
+    "total_no_shows": 1,
+    "total_mkt_contacts": 18,
+    "avg_daily": 16.3,
+    "consult_rate": 33.0,
+    "conversion_rate": 3.51,
+    "mql_rate": 33.33,
+    "sql_rate": 30.7,
+    "total_revenue": 27950.0,
+    "agents": [
+      {
+        "name": "Gizelle",
+        "leads": 7,
+        "mqls": 3,
+        "sqls": 3,
+        "scheduled": 3,
+        "showups": 3,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Heury",
+        "leads": 24,
+        "mqls": 6,
+        "sqls": 5,
+        "scheduled": 7,
+        "showups": 7,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Lu",
+        "leads": 3,
+        "mqls": 3,
+        "sqls": 3,
+        "scheduled": 3,
+        "showups": 3,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 11000.0
+      },
+      {
+        "name": "Peter",
+        "leads": 36,
+        "mqls": 13,
+        "sqls": 13,
+        "scheduled": 12,
+        "showups": 12,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 650.0
+      },
+      {
+        "name": "Santiago",
+        "leads": 44,
+        "mqls": 13,
+        "sqls": 11,
+        "scheduled": 13,
+        "showups": 12,
+        "no_shows": 1,
+        "hired_all": 2,
+        "revenue": 16300.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 55,
+        "mqls": 30,
+        "scheduled": 31,
+        "new_matters": 4,
+        "revenue": 27950.0
+      },
+      "Civil": {
+        "leads": 16,
+        "mqls": 2,
+        "scheduled": 2,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Criminal": {
+        "leads": 12,
+        "mqls": 5,
+        "scheduled": 4,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Real Estate": {
+        "leads": 9,
+        "mqls": 0,
+        "scheduled": 1,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Probate": {
+        "leads": 0,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 22,
+        "mqls": 1,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google - Fort Lauderdale",
+        "leads": 28,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google- Miami",
+        "leads": 18,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA- Fort Lauderdale",
+        "leads": 15,
+        "hired": 1,
+        "revenue": 1300.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 12,
+        "hired": 2,
+        "revenue": 26000.0
+      },
+      {
+        "name": "LSA - Miami",
+        "leads": 12,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Palm Beach",
+        "leads": 7,
+        "hired": 1,
+        "revenue": 650.0
+      },
+      {
+        "name": "Website",
+        "leads": 5,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Boca",
+        "leads": 3,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Boca Raton",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Palm Beach",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Friend",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Client",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Attorney",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Facebook",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Chat GPT",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      }
+    ]
+  },
+  {
+    "label": "02/21-02/27",
+    "total_leads": 139,
+    "total_hired": 7,
+    "total_hired_excl": 6,
+    "total_sqls": 38,
+    "total_mqls": 45,
+    "total_scheduled": 42,
+    "total_showups": 41,
+    "total_no_shows": 1,
+    "total_mkt_contacts": 9,
+    "avg_daily": 19.9,
+    "consult_rate": 30.0,
+    "conversion_rate": 5.04,
+    "mql_rate": 32.37,
+    "sql_rate": 27.34,
+    "total_revenue": 49525.0,
+    "agents": [
+      {
+        "name": "Carly",
+        "leads": 1,
+        "mqls": 1,
+        "sqls": 1,
+        "scheduled": 1,
+        "showups": 1,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 11000.0
+      },
+      {
+        "name": "Gizelle",
+        "leads": 4,
+        "mqls": 3,
+        "sqls": 0,
+        "scheduled": 3,
+        "showups": 2,
+        "no_shows": 1,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Heury",
+        "leads": 28,
+        "mqls": 7,
+        "sqls": 7,
+        "scheduled": 6,
+        "showups": 6,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 7500.0
+      },
+      {
+        "name": "Lu",
+        "leads": 4,
+        "mqls": 3,
+        "sqls": 3,
+        "scheduled": 3,
+        "showups": 3,
+        "no_shows": 0,
+        "hired_all": 2,
+        "revenue": 12875.0
+      },
+      {
+        "name": "Peter",
+        "leads": 27,
+        "mqls": 9,
+        "sqls": 8,
+        "scheduled": 8,
+        "showups": 8,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Santiago",
+        "leads": 75,
+        "mqls": 22,
+        "sqls": 19,
+        "scheduled": 21,
+        "showups": 21,
+        "no_shows": 0,
+        "hired_all": 3,
+        "revenue": 18150.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 60,
+        "mqls": 31,
+        "scheduled": 28,
+        "new_matters": 5,
+        "revenue": 36650.0
+      },
+      "Civil": {
+        "leads": 17,
+        "mqls": 2,
+        "scheduled": 4,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Criminal": {
+        "leads": 25,
+        "mqls": 6,
+        "scheduled": 6,
+        "new_matters": 1,
+        "revenue": 7725.0
+      },
+      "Real Estate": {
+        "leads": 10,
+        "mqls": 2,
+        "scheduled": 2,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Probate": {
+        "leads": 0,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 27,
+        "mqls": 4,
+        "scheduled": 2,
+        "new_matters": 1,
+        "revenue": 5150.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google- Miami",
+        "leads": 25,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Fort Lauderdale",
+        "leads": 24,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA- Fort Lauderdale",
+        "leads": 15,
+        "hired": 1,
+        "revenue": 7500.0
+      },
+      {
+        "name": "Website",
+        "leads": 14,
+        "hired": 1,
+        "revenue": 11000.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 12,
+        "hired": 3,
+        "revenue": 20375.0
+      },
+      {
+        "name": "Facebook",
+        "leads": 7,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Miami",
+        "leads": 7,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Palm Beach",
+        "leads": 7,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Boca Raton",
+        "leads": 5,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Palm Beach",
+        "leads": 5,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Attorney",
+        "leads": 4,
+        "hired": 2,
+        "revenue": 10650.0
+      },
+      {
+        "name": "Referral-Friend",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Avvo",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "YouTube",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Client",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "TikTok",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Chat GPT",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Associated with Contact Lead",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Boca",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      }
+    ]
+  },
+  {
+    "label": "02/28-03/06",
+    "total_leads": 129,
+    "total_hired": 6,
+    "total_hired_excl": 3,
+    "total_sqls": 32,
+    "total_mqls": 44,
+    "total_scheduled": 45,
+    "total_showups": 43,
+    "total_no_shows": 2,
+    "total_mkt_contacts": 15,
+    "avg_daily": 18.4,
+    "consult_rate": 35.0,
+    "conversion_rate": 4.65,
+    "mql_rate": 34.11,
+    "sql_rate": 24.81,
+    "total_revenue": 16450.0,
+    "agents": [
+      {
+        "name": "Fabio",
+        "leads": 1,
+        "mqls": 0,
+        "sqls": 0,
+        "scheduled": 0,
+        "showups": 0,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Gizelle",
+        "leads": 17,
+        "mqls": 3,
+        "sqls": 1,
+        "scheduled": 2,
+        "showups": 2,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Heury",
+        "leads": 28,
+        "mqls": 8,
+        "sqls": 8,
+        "scheduled": 9,
+        "showups": 8,
+        "no_shows": 1,
+        "hired_all": 1,
+        "revenue": 1300.0
+      },
+      {
+        "name": "Lu",
+        "leads": 11,
+        "mqls": 5,
+        "sqls": 4,
+        "scheduled": 5,
+        "showups": 5,
+        "no_shows": 0,
+        "hired_all": 2,
+        "revenue": 3500.0
+      },
+      {
+        "name": "Peter",
+        "leads": 24,
+        "mqls": 10,
+        "sqls": 10,
+        "scheduled": 11,
+        "showups": 11,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 10000.0
+      },
+      {
+        "name": "Santiago",
+        "leads": 48,
+        "mqls": 18,
+        "sqls": 9,
+        "scheduled": 18,
+        "showups": 17,
+        "no_shows": 1,
+        "hired_all": 2,
+        "revenue": 1650.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 47,
+        "mqls": 26,
+        "scheduled": 27,
+        "new_matters": 3,
+        "revenue": 11650.0
+      },
+      "Civil": {
+        "leads": 20,
+        "mqls": 5,
+        "scheduled": 4,
+        "new_matters": 2,
+        "revenue": 4800.0
+      },
+      "Criminal": {
+        "leads": 26,
+        "mqls": 9,
+        "scheduled": 9,
+        "new_matters": 1,
+        "revenue": 0.0
+      },
+      "Real Estate": {
+        "leads": 14,
+        "mqls": 4,
+        "scheduled": 4,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Probate": {
+        "leads": 0,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 22,
+        "mqls": 0,
+        "scheduled": 1,
+        "new_matters": 0,
+        "revenue": 0.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google - Fort Lauderdale",
+        "leads": 24,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google- Miami",
+        "leads": 22,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA- Fort Lauderdale",
+        "leads": 19,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Facebook",
+        "leads": 11,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Website",
+        "leads": 10,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Palm Beach",
+        "leads": 9,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Boca Raton",
+        "leads": 7,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Miami",
+        "leads": 6,
+        "hired": 1,
+        "revenue": 650.0
+      },
+      {
+        "name": "Referral-Friend",
+        "leads": 5,
+        "hired": 1,
+        "revenue": 1300.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 5,
+        "hired": 1,
+        "revenue": 1000.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 3,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Avvo",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Associated with Contact Lead",
+        "leads": 2,
+        "hired": 2,
+        "revenue": 3500.0
+      },
+      {
+        "name": "Referral-Client",
+        "leads": 1,
+        "hired": 1,
+        "revenue": 10000.0
+      },
+      {
+        "name": "Google - Palm Beach",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Previous client",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Mark Shecter",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      }
+    ]
+  },
+  {
+    "label": "03/07-03/13",
+    "total_leads": 123,
+    "total_hired": 4,
+    "total_hired_excl": 4,
+    "total_sqls": 22,
+    "total_mqls": 47,
+    "total_scheduled": 47,
+    "total_showups": 46,
+    "total_no_shows": 1,
+    "total_mkt_contacts": 21,
+    "avg_daily": 17.6,
+    "consult_rate": 38.0,
+    "conversion_rate": 3.25,
+    "mql_rate": 38.21,
+    "sql_rate": 17.89,
+    "total_revenue": 30985.0,
+    "agents": [
+      {
+        "name": "Gizelle",
+        "leads": 10,
+        "mqls": 3,
+        "sqls": 1,
+        "scheduled": 3,
+        "showups": 3,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Heury",
+        "leads": 24,
+        "mqls": 4,
+        "sqls": 3,
+        "scheduled": 5,
+        "showups": 5,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Loulou",
+        "leads": 1,
+        "mqls": 1,
+        "sqls": 1,
+        "scheduled": 1,
+        "showups": 1,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 9985.0
+      },
+      {
+        "name": "Lu",
+        "leads": 4,
+        "mqls": 3,
+        "sqls": 2,
+        "scheduled": 3,
+        "showups": 3,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 10000.0
+      },
+      {
+        "name": "Peter",
+        "leads": 24,
+        "mqls": 14,
+        "sqls": 9,
+        "scheduled": 13,
+        "showups": 13,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Santiago",
+        "leads": 60,
+        "mqls": 22,
+        "sqls": 6,
+        "scheduled": 22,
+        "showups": 21,
+        "no_shows": 1,
+        "hired_all": 2,
+        "revenue": 11000.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 42,
+        "mqls": 25,
+        "scheduled": 27,
+        "new_matters": 3,
+        "revenue": 27485.0
+      },
+      "Civil": {
+        "leads": 14,
+        "mqls": 4,
+        "scheduled": 4,
+        "new_matters": 1,
+        "revenue": 3500.0
+      },
+      "Criminal": {
+        "leads": 24,
+        "mqls": 12,
+        "scheduled": 12,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Real Estate": {
+        "leads": 17,
+        "mqls": 5,
+        "scheduled": 4,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Probate": {
+        "leads": 0,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 26,
+        "mqls": 1,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google - Fort Lauderdale",
+        "leads": 19,
+        "hired": 1,
+        "revenue": 10000.0
+      },
+      {
+        "name": "Google- Miami",
+        "leads": 19,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA- Fort Lauderdale",
+        "leads": 18,
+        "hired": 1,
+        "revenue": 9985.0
+      },
+      {
+        "name": "Website",
+        "leads": 9,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Miami",
+        "leads": 9,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 8,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Boca Raton",
+        "leads": 8,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Palm Beach",
+        "leads": 7,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Facebook",
+        "leads": 5,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Palm Beach",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Friend",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Boca",
+        "leads": 3,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Avvo",
+        "leads": 3,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Instagram",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Previous client",
+        "leads": 1,
+        "hired": 1,
+        "revenue": 7500.0
+      },
+      {
+        "name": "Referral-Attorney",
+        "leads": 1,
+        "hired": 1,
+        "revenue": 3500.0
+      }
+    ]
+  },
+  {
+    "label": "03/13-03/20",
+    "total_leads": 109,
+    "total_hired": 1,
+    "total_hired_excl": 1,
+    "total_sqls": 7,
+    "total_mqls": 42,
+    "total_scheduled": 39,
+    "total_showups": 39,
+    "total_no_shows": 0,
+    "total_mkt_contacts": 14,
+    "avg_daily": 15.6,
+    "consult_rate": 36.0,
+    "conversion_rate": 0.92,
+    "mql_rate": 38.53,
+    "sql_rate": 6.42,
+    "total_revenue": 7530.0,
+    "agents": [
+      {
+        "name": "Gizelle",
+        "leads": 4,
+        "mqls": 3,
+        "sqls": 0,
+        "scheduled": 3,
+        "showups": 3,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Heury",
+        "leads": 19,
+        "mqls": 5,
+        "sqls": 1,
+        "scheduled": 4,
+        "showups": 4,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Lu",
+        "leads": 7,
+        "mqls": 3,
+        "sqls": 1,
+        "scheduled": 3,
+        "showups": 3,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Peter",
+        "leads": 27,
+        "mqls": 11,
+        "sqls": 1,
+        "scheduled": 9,
+        "showups": 9,
+        "no_shows": 0,
+        "hired_all": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Santiago",
+        "leads": 52,
+        "mqls": 20,
+        "sqls": 4,
+        "scheduled": 20,
+        "showups": 20,
+        "no_shows": 0,
+        "hired_all": 1,
+        "revenue": 7530.0
+      }
+    ],
+    "practice_areas": {
+      "Family": {
+        "leads": 38,
+        "mqls": 25,
+        "scheduled": 24,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Civil": {
+        "leads": 16,
+        "mqls": 3,
+        "scheduled": 3,
+        "new_matters": 1,
+        "revenue": 7530.0
+      },
+      "Criminal": {
+        "leads": 18,
+        "mqls": 9,
+        "scheduled": 8,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Real Estate": {
+        "leads": 9,
+        "mqls": 4,
+        "scheduled": 3,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Probate": {
+        "leads": 0,
+        "mqls": 0,
+        "scheduled": 0,
+        "new_matters": 0,
+        "revenue": 0.0
+      },
+      "Other": {
+        "leads": 28,
+        "mqls": 1,
+        "scheduled": 1,
+        "new_matters": 0,
+        "revenue": 0.0
+      }
+    },
+    "sources": [
+      {
+        "name": "Google - Fort Lauderdale",
+        "leads": 27,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Palm Beach",
+        "leads": 16,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA- Fort Lauderdale",
+        "leads": 10,
+        "hired": 1,
+        "revenue": 7530.0
+      },
+      {
+        "name": "Google- Miami",
+        "leads": 9,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Denise Isaacs",
+        "leads": 8,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Miami",
+        "leads": 7,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Unassigned",
+        "leads": 7,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Website",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Facebook",
+        "leads": 4,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Boca Raton",
+        "leads": 3,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Mark Shecter",
+        "leads": 3,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Google - Palm Beach",
+        "leads": 3,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Avvo",
+        "leads": 2,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Friend",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "LSA - Boca",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "YouTube",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Associated with Contact Lead",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "TikTok",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      },
+      {
+        "name": "Referral-Attorney",
+        "leads": 1,
+        "hired": 0,
+        "revenue": 0.0
+      }
+    ]
+  }
+]
